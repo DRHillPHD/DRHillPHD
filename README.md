@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DRHillPHD
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Algebra
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me vbb23238@icloud.com
 <!---
